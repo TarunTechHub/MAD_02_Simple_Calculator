@@ -1,0 +1,2 @@
+rootProject.name = "MAD_02_Simple_Calculator"
+include ':app'
